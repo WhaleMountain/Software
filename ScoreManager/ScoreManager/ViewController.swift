@@ -11,6 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         var test:Int // pull requestのテスト用で追加
+        var test2:Int // git test
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
